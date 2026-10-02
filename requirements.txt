@@ -1,0 +1,26 @@
+# core stack versions confirmed in the Colab run
+vllm==0.30.0
+torch==2.13.0
+torchvision==0.28.0
+transformers==5.13.1
+
+# agent framework, versions confirmed in the Colab run
+langchain==1.4.3
+langchain-core==1.6.6
+langchain-openai==1.6.7
+langgraph==1.2.12
+
+# agent support packages, versions not pinned
+langchain-huggingface
+langchain-text-splitters
+
+# data and topic modeling, versions not pinned
+pandas
+numpy
+scikit-learn
+matplotlib
+sentence-transformers
+
+# dataset download and HTTP checks, versions not pinned
+kagglehub
+requests
