@@ -1,11 +1,6 @@
 # LLM Agent NVIDIA</h1>
 
 <p align="center">
-  <img src="img/1.png" alt="Image 1" width="49%">
-  <img src="img/2.png" alt="Image 2" width="49%">
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Google%20Colab-G4%20GPU-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab">
 <img src="https://img.shields.io/badge/LangChain-1.x-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
@@ -17,6 +12,11 @@
 <img src="https://img.shields.io/badge/pandas-data%20analysis-150458?logo=pandas&logoColor=white" alt="pandas">
 <img src="https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
 <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+</p>
+
+<p align="center">
+  <img src="img/1.png" alt="Image 1" width="49%">
+  <img src="img/2.png" alt="Image 2" width="49%">
 </p>
 
 An LLM agent built with LangChain for data analysis and topic modeling (KMeans and LDA) on financial news, running an NVIDIA Nemotron model locally on Google Colab.
