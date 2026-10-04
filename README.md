@@ -172,7 +172,7 @@ The silhouette score was **0.102**. Between 3 and 12 clusters it varied only fro
 
 | Cluster scatterplot (KMeans) | Topic scatterplot (LDA) |
 |---|---|
-| ![Clusters](output/topic_clusters.png) | ![LDA scatter](output/lda_scatter.png) |
+| ![Clusters](https://github.com/RafaelGallo/LLM-Agent-Nvidia/blob/main/output/cluster.png?raw=true) | ![LDA scatter](output/lda_scatter.png) |
 
 ![Phrases per topic](output/lda_topics.png)
 
