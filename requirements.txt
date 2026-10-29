@@ -1,5 +1,5 @@
 # core stack versions confirmed in the Colab run
-vllm==0.30.0
+vllm==0.32.0
 torch==2.13.0
 torchvision==0.28.0
 transformers==5.13.1
