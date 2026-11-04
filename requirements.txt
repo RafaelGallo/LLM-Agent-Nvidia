@@ -8,7 +8,7 @@ transformers==5.13.1
 langchain==1.4.3
 langchain-core==1.6.6
 langchain-openai==1.6.7
-langgraph==1.2.12
+langgraph==1.2.14
 
 # agent support packages, versions not pinned
 langchain-huggingface
